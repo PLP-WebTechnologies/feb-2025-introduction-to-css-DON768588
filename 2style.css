@@ -1,0 +1,37 @@
+/* Styling the title */
+.title {
+    color: darkblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Styling the paragraph */
+#description {
+    font-size: 18px;
+    color: gray;
+    margin: 20px;
+}
+
+/* Styling an image */
+.styled-image {
+    width: 300px;
+    height: auto;
+    border: 5px solid black;
+    display: block;
+    margin: 20px auto;
+}
+
+/* Styling a box */
+.box {
+    background-color: lightgray;
+    padding: 20px;
+    margin: 30px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+/* Styling text inside the box */
+.text {
+    font-family: "Courier New", Courier, monospace;
+    color: darkred;
+}
